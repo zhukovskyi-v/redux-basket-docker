@@ -1,0 +1,35 @@
+.product-list-item {
+    display: flex;
+    margin: 15px;
+}
+
+.product-details {
+    display: flex;
+
+}
+
+.product-list-item .product-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    align-items: flex-start;
+}
+
+.product-name {
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+.product-label {
+    max-width: 200px;
+}
+
+.product-name {
+    font-size: 1.2rem;
+}
+
+.product-price {
+    font-size: 1.4rem;
+}
