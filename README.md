@@ -9,7 +9,7 @@ dependencies, go to point 1.1 or 1.2:
 
 ### `npm start`
 
-1.2 For open with Docker you need to open cmd and copy-paste:
+1.2 To open with Docker, you need to have Docker on your computer or download and install it (https://docs.docker.com/docker-for-windows/install/). Then open in the project directory cmd and copy-paste:
 
 ### `docker-compose up`
 
